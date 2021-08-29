@@ -10,4 +10,5 @@
 # At smaller screen dimensions (<= 850px), have the boxes appear in the center of the page.
 
  # At >850px, align the single row of boxes at the bottom of the page using Flexbox-specific properties (i.e. not margin or positioning).
+# https://css-tricks.com/snippets/css/complete-guide-grid/
 
